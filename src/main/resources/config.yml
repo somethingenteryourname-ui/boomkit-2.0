@@ -1,0 +1,8 @@
+# BoomKit settings
+# Explosion power controls how big the blast is.
+#   Vanilla end crystal  = 6
+#   Vanilla respawn anchor = 5
+# Players/mobs get hit up to about (power x 2) blocks away.
+# You can also change these in-game with /boomradius
+crystal-power: 10.0
+anchor-power: 10.0
